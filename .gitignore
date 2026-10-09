@@ -1,0 +1,24 @@
+Keep API keys private
+
+.env
+.env.*
+!.env.example
+
+Python cache
+
+pycache/
+*.py[cod]
+
+Virtual environments
+
+.venv/
+venv/
+
+macOS files
+
+.DS_Store
+
+IDE settings
+
+.idea/
+.vscode/

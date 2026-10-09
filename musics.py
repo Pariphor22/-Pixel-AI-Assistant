@@ -1,0 +1,10 @@
+music = {"cheri cheri lady":"https://youtu.be/lrIKt5uDWZo?si=HhtzUaiAITPZajOc",
+         "shape of you": "https://youtu.be/JGwWNGJdvx8",
+         "heeriye": "https://youtu.be/RLzC55ai0eo",
+          "let her go": "https://youtu.be/RBumgq5yVrA",
+           "girls like you": "https://youtu.be/aJOTlE1K90k",
+          "Shayad": "https://youtu.be/MJyKN-8UncM",
+           "apna bna le": "https://youtu.be/ElZfdU54Cp8",
+          "counting stars": "https://youtu.be/hT_nvWreIhg",
+          "Memories": "https://youtu.be/SlPhMPnQ58k",
+          "chaleya": "https://youtu.be/VAdGW7QDJiU"}
